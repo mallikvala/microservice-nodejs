@@ -19,6 +19,6 @@
 
 ### Differences between microservices:
 
-| nodejs | Boot | Spark
-| :------------- | :------------- |
-| pending | pending |
+| nodejs | Boot | Spark |
+| :------------- | :------------- | :--------------|
+| pending | pending | pending|
